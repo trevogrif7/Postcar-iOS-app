@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         messageButton.setTitle("Message Sent", forState: UIControlState.Normal)
         
         
-        ///Test comment for github test
+        ///Test comment for github test, did it work?
     }
 
 }
